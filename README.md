@@ -31,4 +31,4 @@ Time spent: 8 hours
 
 ### Walkthrough
 
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/usumeet/Yelp/blob/master/YelpDemo.gif)
